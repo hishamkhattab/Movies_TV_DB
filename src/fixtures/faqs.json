@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "header": "What is TMDB?",
+    "body": "The Movie Database (TMDB) is a community built movie and TV database. Every piece of data has been added by our amazing community dating back to 2008. TMDb's strong international focus and breadth of data is largely unmatched and something we're incredibly proud of. Put simply, we live and breathe community and that's precisely what makes us different."
+  },
+  {
+    "id": 2,
+    "header": "Things I should do?",
+    "body": "Respect everyone, we're all here because we have something in common.\nBe polite and welcoming to new users. We were all new once.\nAsk for help and provide assistance to others when possible.\nOffer constructive criticism or voice a dissenting opinion, but don't be mean or disrespectful.\nFeel free to use use Emoji (Emoticons) to convey the tone of your message. :wink:\nLead by example. Treat others even better than you expect to be treated yourself and the discussions become a better place for everyone."
+  },
+  {
+    "id": 3,
+    "header": "Things I should not do?",
+    "body": "Do not share or ask for links to copyrighted, non-fair use material.\nDo not share any NSFW* content (e.g. links, images, text etc.) on your profile or in forum discussions.\nTrolling, abuse, flaming and/or harassment (e.g. personal attacks, name-calling and/or insulting/ridiculing another user) are uncalled for and will not be tolerated. Have discussions based on well-formulated arguments.\nDo not post spam** or advertisements on TMDB.\nDouble posting is frowned upon. Please edit your first post unless a second post is absolutely necessary.\nImpersonating another user of TMDB by copying their name and/or avatar is not allowed. Just be your charming self."
+  },
+  {
+    "id": 5,
+    "header": "What are The TMDB Advantage?",
+    "body": "1) Every year since 2008, the number of contributions to our database has increased. With over 400,000 developers and companies using our platform, TMDB has become a premiere source for metadata.\n2) Along with extensive metadata for movies, TV shows and people, we also offer one of the best selections of high resolution posters and fanart. On average, over 1,000 images are added every single day.\n3) We're international. While we officially support 39 languages we also have extensive regional data. Every single day TMDB is used in over 180 countries."
+  }
+]

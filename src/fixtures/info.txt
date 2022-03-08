@@ -1,0 +1,1 @@
+**Fixtures folder contain all the dummy data that will be used in the application.

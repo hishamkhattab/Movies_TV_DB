@@ -1,0 +1,3 @@
+**Pages folder contain all the pages that are used in the application. 
+
+**index.js file is like a phone-book for all the pages.

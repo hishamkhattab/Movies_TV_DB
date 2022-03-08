@@ -1,0 +1,1 @@
+**Hooks folder contain all the custom hooks used in the application.

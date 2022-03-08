@@ -1,0 +1,3 @@
+**Components folder contain all the component used in the application and the style.
+
+**index.js file is like a phone-book for all the components.

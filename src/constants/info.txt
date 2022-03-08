@@ -1,0 +1,5 @@
+**Constants folder contain all the constants used in the application.
+
+**like Route paths, and API end-point.
+
+

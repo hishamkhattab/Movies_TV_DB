@@ -1,0 +1,3 @@
+**Container folder contain main purpose to make the page look more neat, and to make some container more re-usable
+
+**index.js file is like a phone-book for all the containers.

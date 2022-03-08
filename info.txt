@@ -1,0 +1,2 @@
+` Using React Compound Components to style athe application
+* using the movie database.com api to get data
